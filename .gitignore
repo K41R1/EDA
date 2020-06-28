@@ -1,0 +1,23 @@
+# docker
+/data
+/parking-tickets
+/investment-data
+/covid-19
+clean.py
+reset.sh
+
+
+### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+# website: http://jupyter.org/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.pyinvestment-data
+.metals
+
+# VSCode
+/.vscode/
